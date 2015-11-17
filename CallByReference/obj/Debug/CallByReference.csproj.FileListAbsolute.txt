@@ -1,0 +1,9 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\bin\Debug\CallByReference.exe.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\bin\Debug\CallByReference.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\bin\Debug\CallByReference.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\obj\Debug\CallByReference.csprojResolveAssemblyReference.cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\obj\Debug\CallByReference.Form1.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\obj\Debug\CallByReference.Properties.Resources.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\obj\Debug\CallByReference.csproj.GenerateResource.Cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\obj\Debug\CallByReference.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\CallByReference\CallByReference\obj\Debug\CallByReference.pdb
